@@ -1,16 +1,21 @@
-## Olá! Me chamo Mariana Santo 👋
+### Olá! Me chamo Mariana 👋
 
-**marianalesanto-ops/marianalesanto-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do primeiro período de Ciência da Computação no CESAR School. Me interesso pela área de desenvolvimento de IA e por novos aprendizados!
 
-## Aprendizados:
-- Hard Skills: Python, JavaScript e C++ voltado ao arduino;
-- Soft Skills: Trabalho em Equipe e Organização de Equipes;
+#### 🛠️Atualmente estou trabalhando com:
+- **Ferramentas**: VS Code e Arduino IDE 
+- **Projetos**: Semáforo adaptado para pessoas com deficiência visual *(em desenvolvimento)*
 
-## Idiomas:
-- Português;
-- Inglês (B1);
+#### 🚀 Atualmente estou aprendendo:
+- **Hard Skills**: Python, JavaScript e C++ voltado ao arduino
+- **Soft Skills**: Trabalho em Equipe e Organização de Equipes
 
-## Contatos profissionais:
-- Linkedin: www.linkedin.com/in/mariana-santo-byte
+#### 🌎 Idiomas:
+- **Português**: Nativo
+- **Inglês**: Nível B1 (Certificado pela Universidade de Cambridge)
+
+#### 📫 Contatos:
+- **LinkedIn**: [www.linkedin.com/in/mariana-santo-byte](https://www.linkedin.com/in/mariana-santo-byte)
+
 
 
