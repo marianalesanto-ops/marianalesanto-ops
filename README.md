@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Me chamo Mariana Santo 👋
 
 <!--
 **marianalesanto-ops/marianalesanto-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Aprendizados:
+- Hard Skills: Python, JavaScript e C++ voltado ao arduino;
+- Soft Skills: Trabalho em Equipe e Organização de Equipes;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Idiomas:
+- Português;
+- Inglês (B1);
+
+### Contatos profissionais:
+- Linkedin: www.linkedin.com/in/mariana-santo-byte
+
+
